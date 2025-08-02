@@ -16,5 +16,9 @@ public class KeyBindings : MonoBehaviour {
     public List<string> rotateRight;
     public List<string> rotateLeft;
     public List<string> moveForward;
+    public List<string> moveBackward;
+
+    [Header("Interaction")]
+    public List<string> interact;
 
 }
