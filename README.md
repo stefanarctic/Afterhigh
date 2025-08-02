@@ -59,6 +59,3 @@ The scripts are organized into logical folders:
 - **Player**: Player character scripts, input handling, movement
 - **RPG_Stuff**: RPG mechanics, inventory, quest systems
 - **Particle**: Particle effects and visual systems
-
-This setup provides a clean, focused development environment similar to Visual Studio's Unity project view. "# Afterhigh" 
-"# Afterhigh" 
